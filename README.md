@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vishal KUMAR gUPTA
+- 👋 Hi, I’m Vishal K Gupta
 
 <!---
 Epochbrokers3/Epochbrokers3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
